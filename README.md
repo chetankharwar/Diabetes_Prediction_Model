@@ -1,1 +1,1 @@
-# Diabetes_Prediction_Model
+# Dibetic-Detection-using-ML-123
